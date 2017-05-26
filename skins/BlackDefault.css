@@ -1,0 +1,53 @@
+BODY { 
+
+font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 11px; color: white; margin:1px 10px 0px 10px; background-color: black; 
+
+scrollbar-3dlight-color:#464646;
+scrollbar-arrow-color:white;
+scrollbar-base-color:#343434;
+scrollbar-darkshadow-color:#000d00;
+scrollbar-face-color:#464646;
+scrollbar-highlight-color:#0d0000;
+scrollbar-track-color:#343434;
+scrollbar-shadow-color:#343434;
+
+}
+
+
+TABLE, TR, TD { 
+
+font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 11px; color: white; 
+
+}
+
+a:link, a:visited, a:active { 
+text-decoration: none; color: silver
+}
+
+a:hover { 
+color: gray; text-decoration: none 
+}
+
+                   hr { color: #232323; }
+
+
+
+          .arcade1 { background-color: #343434}
+
+
+.tableborder { border: 1px solid #464646;background-color:#464646; padding:0px; margin:0px; width:90% }
+
+
+input , select {
+background-color: #232323;
+color: silver;
+border: 2px solid #464646;
+}
+
+textarea {
+background-color: #232323;
+color: silver;
+border: 2px solid #464646;
+}
+
+.headertableblock { font-weight:bold; color:white; padding:2px; margin:0px; background-color: #1F1F1F }

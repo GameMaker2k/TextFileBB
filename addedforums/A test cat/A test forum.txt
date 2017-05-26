@@ -1,0 +1,1 @@
+A textfileBB test forum, to show that the install was ok. Remember to CHMOD 777 all files if you are getting permissions errors anywhere.

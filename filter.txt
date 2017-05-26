@@ -1,0 +1,13 @@
+// Word Filter - Add one word per line
+shit
+fuck
+asshole
+cunt
+pussy
+fuckhead
+hell
+damn
+bitch
+nigger
+cracker
+whore

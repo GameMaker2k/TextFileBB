@@ -1,0 +1,43 @@
+/*
+========================================================
+TextFileBB white default
+========================================================
+*/
+
+/* Define basic Elements, BODY, link color, etc */
+
+BODY { font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 11px; color: #000; margin:0px 10px 0px 10px;background-image:url()}
+TABLE, TR, TD { font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 11px; color: #000; }
+a:link, a:visited, a:active { text-decoration: none; color: #000 }
+a:hover { color: #465584; text-decoration:underline }
+
+/* 
+Arcade 1, controls the color of the table insides. 
+It's called "Arcade1" for backward compatibility with
+my PHP-Quick-Arcade
+*/
+
+.arcade1 { background-color: #EFEFEF}
+
+/* 
+Obvious table border
+*/
+
+.tableborder { border: 1px solid #A29EA5;background-color:#828181; padding:0px; margin:0px; width:90% }
+
+
+/* 
+Buttons
+*/
+input , select {
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+
+
+/*
+The top of each table. This changes the part where the
+default silver gradient is.
+*/
+.headertableblock { 
+font-weight:bold; color:black; padding:2px; margin:0px; background-color: #1F1F1F;background-image:url(Default_img/silver.gif);
+}

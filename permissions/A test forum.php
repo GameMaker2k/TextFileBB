@@ -1,0 +1,34 @@
+<?php
+$url_redirect = 'No';
+$allow_posting = 'Yes';
+$redirect_to = '';
+$parse_bbcode = 'Yes';
+$allow_quick_reply = 'No';
+$increase_postcount = 'Yes';
+$password_needed = 'No';
+$board_password = '';
+$can_upload['Admin'] = 'allowed';
+$can_read['Admin'] = 'allowed';
+$can_reply['Admin'] = 'allowed';
+$can_start['Admin'] = 'allowed';
+$can_upload['Member'] = '';
+$can_read['Member'] = 'allowed';
+$can_reply['Member'] = 'allowed';
+$can_start['Member'] = 'allowed';
+$can_upload['Guest'] = '';
+$can_read['Guest'] = 'allowed';
+$can_reply['Guest'] = '';
+$can_start['Guest'] = '';
+$can_upload['Banned'] = '';
+$can_read['Banned'] = 'allowed';
+$can_reply['Banned'] = '';
+$can_start['Banned'] = '';
+$can_upload['Moderator'] = 'allowed';
+$can_read['Moderator'] = 'allowed';
+$can_reply['Moderator'] = 'allowed';
+$can_start['Moderator'] = 'allowed';
+$can_upload['Validating'] = '';
+$can_read['Validating'] = 'allowed';
+$can_reply['Validating'] = '';
+$can_start['Validating'] = '';
+?>
